@@ -1,0 +1,20 @@
+{
+  "name": "encurtador_url_frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrielyMendes/Encurtador_URL_Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrielyMendes/Encurtador_URL_Frontend/issues"
+  },
+  "homepage": "https://github.com/AdrielyMendes/Encurtador_URL_Frontend#readme",
+  "keywords": [],
+  "description": ""
+}
